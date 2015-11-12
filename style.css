@@ -1,0 +1,19 @@
+*{
+	font-family: 'Raleway';
+	color: #f9f9f9;
+}
+body{
+	background:linear-gradient(135deg,#04859D,#1437AD 60%,#1437AD);
+	height:100vh;
+	padding-top: 25px;
+}
+.container{
+	width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.logo{
+	max-width: 300px;
+	height:auto;
+}
